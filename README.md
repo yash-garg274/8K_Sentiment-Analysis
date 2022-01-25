@@ -3,7 +3,7 @@
 ## What is 8-K
 
  Form 8-K is the “current report” companies must file with the Securities and Exchange Commission(SEC) to announce major events that shareholders should know about. 
- The companies file a 8-K report whenever significant corporate events take place that trigger a disclosure.
+ The companies files a 8-K report whenever significant corporate events take place that trigger a disclosure.
  
 ##  Problem Description
 
