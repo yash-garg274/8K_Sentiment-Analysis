@@ -13,6 +13,6 @@
   
 ## Steps
   
- 1) Extracting the url-link to 8-K, CIK no., data of filing of the report, from the EDGAR database.
+ 1) Extracting the url-link for 8-K, CIK no., data of filing of the report, from the EDGAR database.
  2) Downloading the 8-K, cleaning the data, and saving it in a repository.
  3) Applying the sentiment analysis to calculate the sentiment score.
