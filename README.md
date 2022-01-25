@@ -8,7 +8,7 @@
 ##  Problem Description
 
  The 8-K report might have positive, negative or a neutral event. To know whether the report is of positive type, negative type or of neutral type, we use sentiment analysis.
- The sentiment analysis calculates teh positive score and negative score and finds the difference to calculate the sentiment score.
+ The sentiment analysis calculates the positive score and negative score and finds the difference to calculate the sentiment score.
  I have used the basic bag of words approach to calculate the sentiment score using the Loughran-McDonald Master Dictionary.
   
 ## Steps
